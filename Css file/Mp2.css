@@ -1,0 +1,27 @@
+p{
+    text-align: justify;
+    font-size: 30px;
+    margin-left: 20px;
+    background-color: lightsalmon;
+}
+
+h1,
+h2{
+    color: black;
+
+}
+#myIDColor{
+    color: tomato;
+
+}
+#myIDCenter{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+.color-heading{
+    color: salmon;
+}
